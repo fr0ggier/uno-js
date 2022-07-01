@@ -1,0 +1,19 @@
+{
+  "name": "uno",
+  "version": "1.0.0",
+  "description": "uno game",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr0ggier/uno-js.git"
+  },
+  "author": "froggie & ernie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fr0ggier/uno-js/issues"
+  },
+  "homepage": "https://github.com/fr0ggier/uno-js#readme"
+}
